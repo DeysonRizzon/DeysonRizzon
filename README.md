@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou @DeysonRizzon, apaixonado por tecnologia e resolução de problemas.
+- 👀 Estou interessado em **desenvolvimento web**, **inteligência artificial** e **projetos de código aberto**.
+- 🌱 Atualmente, estou aprendendo **PHP** e aprimorando meus conhecimentos em **Python**.
+- 💞️ Estou buscando colaborar em projetos de **desenvolvimento front-end**, **automação** e **ferramentas para desenvolvedores**.
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/deyson-rizzon-6112b1254/) ou pelo e-mail **deysonrizzon2@gmail.com**.
+- ⚡ Curiosidade: Adoro explorar como a tecnologia pode se conectar à arte e à criatividade.
